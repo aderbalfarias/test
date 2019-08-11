@@ -7,7 +7,7 @@ import { AppRoutingModule } from './/app-routing.module';
 
 import { HomeComponent } from './components/home/home.component';
 import { NotFoundComponent } from './components/not-found/not-found.component';
-import { AboutComponent } from './about/about.component';
+import { AboutComponent } from './components/about/about.component';
 
 @NgModule({
     declarations: [
